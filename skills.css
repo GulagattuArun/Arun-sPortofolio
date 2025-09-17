@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.skills_container{
+    background-color: #1E293B;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    scroll-behavior: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.image_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 130px;
+}
+img{
+    height:50vh;
+    width:20vw;
+    border-radius: 30px;
+    object-fit: cover;
+    padding: 10px;
+
+}
+h{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 5px;
+}
+.python_img{
+    height: 10vh;
+    width:5vw;
+}
+li{
+    list-style-type: none;
+}
+button{
+    text-align: center;
+    height: fit-content;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: aliceblue;
+    color: #1E293B;
+    padding: 5px;
+}
+.html_logo{
+    height:50px;
+    width:50px;
+
+}
+.css_logo{
+    height:50px;
+    width:50px;
+}
+.skills_list{
+    display: flex;
+}
+.web_logo{
+    height: 50px;
+    width: 200px;
+}
+.py_logo{
+    height: 50px;
+    width: 50px;
+}
+.sql_logo{
+    height: 50px;
+    width:50px;
+}
+.git_logo{
+    height: 60px;
+    width:60px;
+}
+.api_logo{
+    height: 50px;
+    width: 50px;
+}
+h1{  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline
+    
+}
+.platform_container{
+    background-color: aliceblue;
+    border-top-right-radius: 0px;
+    text-align: center;
+    
+}
+.pycharm_logo{
+    height: 50px;
+    width: 50px;
+}
+.visual_code{
+    height: 50px;
+    width: 50px;
+}
+button{
+    margin-right: 10px;
+}
+
+
+
